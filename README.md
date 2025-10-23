@@ -15,6 +15,7 @@ Community created resources for Creative Cloud developers
 - [Types for UXP](https://github.com/adobe/cc-ext-uxp-types) - Official repo
 - [UXP Types Crawler](https://github.com/hansottowirtz/adobe-uxp-types-crawler) - Crawls the Photoshop UXP Tyes repo and the UXP Types repo
 - [Types for ExtendScript and Premiere Pro CEP](https://github.com/Adobe-CEP/Samples/tree/master/TypeScript/typings) - Official repo
+- [Adobe XD Typings](https://github.com/AdobeXD/typings) - Official repo, started life as a community repo
 
 ## Blogs
 - [Kris Coppieters Blog](https://coppieters.nz/) - InDesign, InDesign Server, CEP, and more
