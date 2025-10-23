@@ -4,9 +4,9 @@ Community created resources for Creative Cloud developers
 - Contributions welcome
 
 ## Table of Contents
-**  - [TypeScript Definitions](#typescript-definitions)
-  - [CEP Bootstrappers, Self-Signing Panels](#cep-bootstrappers-self-signing-panels)
-  - [Miscellaneous Tools](#miscellaneous-tools)**
+<!-- TOC -->
+
+<!-- /TOC -->
 
 ## TypeScript Definitions  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [Types for Adobe](https://github.com/docsforadobe/Types-for-Adobe) - TypeScript types for Adobe: AfterEffects, Animate, Audition, Illustrator, InDesign, Photoshop, Premiere, ScriptUI.
