@@ -1,0 +1,8 @@
+{
+  "markdown.extension.toc.updateOnSave": true,
+  "markdown.extension.toc.levels": "2..6",
+  "markdown.extension.toc.slugifyMode": "github",
+  "markdown.extension.toc.orderedList": false
+}
+
+

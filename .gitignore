@@ -1,0 +1,45 @@
+# General intent is to keep repo clean. Modify as needed.
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archives and backups
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Node 
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Tooling and editors
+.idea/
+.vscode/
+.vscode-test/
+*.code-workspace
+
+# Logs
+*.log
+
+# Environment files (never commit secrets)
+.env
+.env.*
+*.env.local
+.env.local
