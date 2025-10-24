@@ -8,15 +8,6 @@ Community created resources for Creative Cloud developers
 
 <!-- /TOC -->
 
-## TypeScript Definitions  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- [Types for Adobe](https://github.com/docsforadobe/Types-for-Adobe) - TypeScript types for Adobe: AfterEffects, Animate, Audition, Illustrator, InDesign, Photoshop, Premiere, ScriptUI.
-- [Types for Adobe Extras](https://github.com/docsforadobe/types-for-adobe-extras) - builds on Types for Adobe
-- [Photoshop UXP Types[(https://github.com/adobe-uxp/types-photoshop) - Official repo
-- [Types for UXP](https://github.com/adobe/cc-ext-uxp-types) - Official repo
-- [UXP Types Crawler](https://github.com/hansottowirtz/adobe-uxp-types-crawler) - Crawls the Photoshop UXP Tyes repo and the UXP Types repo
-- [Types for ExtendScript and Premiere Pro CEP](https://github.com/Adobe-CEP/Samples/tree/master/TypeScript/typings) - Official repo
-- [Adobe XD Typings](https://github.com/AdobeXD/typings) - Official repo, started life as a community repo
-
 ## Blogs
 - [Kris Coppieters Blog](https://coppieters.nz/) - InDesign, InDesign Server, CEP, and more
 - [Greg Benz Photography](https://gregbenzphotography.com/) - Industry news
@@ -51,6 +42,15 @@ Community created resources for Creative Cloud developers
 
 ## ScriptUI
 - [ScriptUI Dialog Builder](https://scriptui.joonas.me/) - By Joonas
+
+## TypeScript Definitions  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- [Types for Adobe](https://github.com/docsforadobe/Types-for-Adobe) - TypeScript types for Adobe: AfterEffects, Animate, Audition, Illustrator, InDesign, Photoshop, Premiere, ScriptUI.
+- [Types for Adobe Extras](https://github.com/docsforadobe/types-for-adobe-extras) - builds on Types for Adobe
+- [Photoshop UXP Types[(https://github.com/adobe-uxp/types-photoshop) - Official repo
+- [Types for UXP](https://github.com/adobe/cc-ext-uxp-types) - Official repo
+- [UXP Types Crawler](https://github.com/hansottowirtz/adobe-uxp-types-crawler) - Crawls the Photoshop UXP Tyes repo and the UXP Types repo
+- [Types for ExtendScript and Premiere Pro CEP](https://github.com/Adobe-CEP/Samples/tree/master/TypeScript/typings) - Official repo
+- [Adobe XD Typings](https://github.com/AdobeXD/typings) - Official repo, started life as a community repo
 
 ## Miscellaneous Tools
 - [Adobe Extension Development Tools](https://github.com/adobe-extension-tools) - Tools for for bundling & packaging CEP extension for Adobe Creative Cloud
