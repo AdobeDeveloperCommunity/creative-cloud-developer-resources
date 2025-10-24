@@ -3,12 +3,11 @@ Community created resources for Creative Cloud developers
 - A link here is not an endorsement from Adobe
 - [Contributions welcome](CONTRIBUTING.md)
 
-## Table of Contents
+<!-- no toc -->## Table of Contents
 <!-- TOC -->
-- [Table of Contents](#table-of-contents)
 - [Blogs](#blogs)
-- [Blogs in Japanese](#blogs-in-japanese)
-- [Blog Articles to Note](#blog-articles-to-note)
+  - [Blogs in Japanese](#blogs-in-japanese)
+  - [Blog Articles of Note](#blog-articles-of-note)
 - [CEP Bootstrappers, Self-Signing Panels](#cep-bootstrappers-self-signing-panels)
 - [Communities](#communities)
 - [InDesign Scripting](#indesign-scripting)
@@ -23,10 +22,10 @@ Community created resources for Creative Cloud developers
 - [Greg Benz Photography](https://gregbenzphotography.com/) - Industry news
 - [Creative Scripts](https://creative-scripts.com/) - by Trevor
 
-## Blogs in Japanese
+### Blogs in Japanese
 - [Kawano Shuji](https://kawano-shuji.com/justdiary/) - Photohsop, Illustrator, CEP, UXP, and Electron
 
-## Blog Articles to Note
+### Blog Articles of Note
 - [Why We Still Need CLI Access in UXP](https://hyperbrew.notion.site/Why-We-Still-Need-CLI-Access-in-UXP-193d249d738180b8a5f3f3aaacf8aaa0) - By Justin Taylor
 - [Installing a UXP panel (from a CCX file)](https://gregbenzphotography.com/installing-a-uxp-panel-from-ccx) - By Greg Benz
 - [Installing a UXP panel (from the Adobe Marketplace)](https://gregbenzphotography.com/installing-a-uxp-panel-from-adobe) - By Greg Benz
