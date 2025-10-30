@@ -3,7 +3,8 @@ Community created resources for Creative Cloud developers
 - A link here is not an endorsement from Adobe
 - [Contributions welcome](CONTRIBUTING.md)
 
-<!-- no toc -->## Table of Contents
+<!-- no toc -->
+## Table of Contents
 <!-- TOC -->
 - [Blogs](#blogs)
   - [Blogs in Japanese](#blogs-in-japanese)
