@@ -1,4 +1,4 @@
-# Developer Community Resources
+# Creative Cloud Developer Community Resources
 Community created resources for Creative Cloud developers
 - A link here is not an endorsement from Adobe
 - [Contributions welcome](CONTRIBUTING.md)
