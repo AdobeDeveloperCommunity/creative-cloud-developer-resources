@@ -42,6 +42,8 @@ Community created resources for Creative Cloud developers
 
 ## Communities
 - [Creative Coding Collective](https://essurvey.creativecodingcollective.org/) - this survey doubles as a database of automation tools
+- [Adobe Extensibility Third-Party Developers](https://www.siliconpublishing.com/adobe-extensibility/) - a list by Silicon Publishing
+- [adobedevs.slack.com](adobedevs.slack.com) - Adobe Devs Slack, a community led-group.
 
 ## InDesign Scripting
 - [InDesign UXP Scripting](https://github.com/RolandDreger/indesign-uxp-scripting) - Rolend Dreger's list of resources
