@@ -50,8 +50,8 @@ Community created resources for Creative Cloud developers
 
 ## ScriptUI
 
-- [Extender by Klustre](https://github.com/Klustre/extender) - About A modern starter for writing Adobe Extendscript
-- [Extender by Motion Developer](https://github.com/motiondeveloper/adobe-script-starter) - Simple starter for writing Adobe JSX scripts in TypeScript, transpiled to ES3 with SWC.
+- [Extender by Klustre](https://github.com/Klustre/extender) - Modern starter for writing Adobe Extendscript
+- [Adobe Scripting Setup by Motion Developer](https://github.com/motiondeveloper/adobe-script-starter) - Simple starter for writing Adobe JSX scripts in TypeScript, transpiled to ES3 with SWC.
 - [ScriptUI Dialog Builder by Joonas](https://scriptui.joonas.me/) - Build your Script UI with easy drag and drop elements
 
 ## CEP Extensions
