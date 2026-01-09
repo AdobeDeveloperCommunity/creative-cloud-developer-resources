@@ -91,7 +91,6 @@ Community created resources for Creative Cloud developers
 
 - [Types for Adobe](https://github.com/docsforadobe/Types-for-Adobe) - TypeScript types for Adobe: AfterEffects, Animate, Audition, Illustrator, InDesign, Photoshop, Premiere, ScriptUI.
 - [Types for Adobe Extras](https://github.com/docsforadobe/types-for-adobe-extras) - builds on Types for Adobe
-- [Photoshop UXP Types](https://github.com/adobe-uxp/types-photoshop) - Official repo
 - [Types for UXP](https://github.com/adobe/cc-ext-uxp-types) - Official repo
 - [UXP Types Crawler](https://github.com/hansottowirtz/adobe-uxp-types-crawler) - Crawls the Photoshop UXP Tyes repo and the UXP Types repo
 - [Types for ExtendScript and Premiere Pro CEP](https://github.com/Adobe-CEP/Samples/tree/master/TypeScript/typings) - Official repo
