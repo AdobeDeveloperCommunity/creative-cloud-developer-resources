@@ -98,4 +98,5 @@ Community created resources for Creative Cloud developers
 
 ## Miscellaneous Tools
 
+- [ExtendScript ES3 Polyfills by Jeremy Howard](https://github.com/JeremyLHoward/extendscript-es3-polyfills) - Shims adding Array indexOf/forEach/map/filter/includes and JSON parse/stringify to ExtendScript
 - [Adobe Extension Development Tools](https://github.com/adobe-extension-tools) - Tools for for bundling & packaging CEP extension for Adobe Creative Cloud
