@@ -85,6 +85,7 @@ Community created resources for Creative Cloud developers
 
 ## MCP Servers
 
+- [after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - Control After Effects compositions, layers, and animations through an ExtendScript-based MCP server
 - [adb-mcp](https://github.com/mikechambers/adb-mcp) - Control Adobe Photoshop and Adobe Premiere using AI via Claude
 
 ## TypeScript Definitions ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
