@@ -44,6 +44,7 @@ Community created resources for Creative Cloud developers
 
 ## UXP Plugins
 
+- [CEP to UXP](https://github.com/ThisIsMrAli/cep-to-uxp) - Converts a CEP extension into a UXP plugin for Photoshop, InDesign, Premiere Pro, and Media Encoder
 - [Bolt UXP](https://hyperbrew.co/resources/bolt-uxp/) - A lightning-fast framework for building Adobe UXP Plugins in React, Svelte, or Vue built on Vite + TypeScript + Sass
 - [UXP Validator for VS Code by Jarda](https://github.com/jardicc/vscode-uxp-validator) - CSS Style Validator for UXP Plugins
 - [Alchemist by Jarda for BatchPlay in Photoshop UXP](https://github.com/jardicc/alchemist) - Toolkit for Capturing Photoshop BatchPlay commands
