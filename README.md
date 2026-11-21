@@ -86,6 +86,7 @@ Community created resources for Creative Cloud developers
 
 ## MCP Servers
 
+- [ae-mcp](https://github.com/JUNKDOGE-JOE/after-effects-mcp) - Connect AI assistants to Adobe After Effects via MCP to inspect projects, edit animations, preview frames, and recover failed operations
 - [lightroom-mcp](https://github.com/Automaat/lightroom-mcp) - Search and manage photos, metadata, collections, and develop settings in Adobe Lightroom Classic through MCP
 - [after-effects-mcp](https://github.com/Dakkshin/after-effects-mcp) - Control After Effects compositions, layers, and animations through an ExtendScript-based MCP server
 - [adb-mcp](https://github.com/mikechambers/adb-mcp) - Control Adobe Photoshop and Adobe Premiere using AI via Claude
